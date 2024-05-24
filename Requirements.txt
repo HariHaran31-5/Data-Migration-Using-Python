@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+binascii
+os
+time
+chardet 
